@@ -33,10 +33,6 @@
   text-align: center;
 }
 
-/* src/App.css */
-
-/* Add this at the end of your existing CSS */
-
 @media (max-width: 768px) {
   .posts-list {
     flex-direction: column;
